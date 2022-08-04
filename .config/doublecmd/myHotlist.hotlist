@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <DirectoryHotList>
+    <HotDir Name="User" Path="$Home"/>
+    <HotDir Name="Config" Path="$Home/.config"/>
+    <HotDir Name="Desktop" Path="$Home/Desktop"/>
+    <HotDir Name="Documents" Path="$Home/Documents"/>
+    <HotDir Name="Downloads" Path="$Home/Downloads"/>
+    <HotDir Name="Pictures" Path="$Home/Pictures"/>
+    <HotDir Name="-" Path=""/>
+    <HotDir Name="-Dropbox" Path=""/>
+    <HotDir Name="Dropbox" Path="/home/brian/Dropbox"/>
+    <HotDir Name="Document" Path="/home/brian/Dropbox/Document"/>
+    <HotDir Name="__mint" Path="/home/brian/Dropbox/Document/M_Program/__OS/linux/__mint"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="-" Path=""/>
+    <HotDir Name="down(win)" Path="/mnt/d/down"/>
+    <HotDir Name="-" Path=""/>
+    <HotDir Name="/" Path=""/>
+    <HotDir Name="etc" Path="/etc"/>
+    <HotDir Name="home" Path="/home"/>
+    <HotDir Name="media" Path="/media"/>
+    <HotDir Name="root" Path="/root"/>
+    <HotDir Name="-mnt" Path=""/>
+    <HotDir Name="mnt" Path="/mnt"/>
+    <HotDir Name="mnt/hdd1/__files/Program/OS/Linux/mint" Path="/mnt/hdd1/__files/Program/OS/Linux/mint"/>
+    <HotDir Name="mnt/hdd1/__files/media" Path="/mnt/hdd1/__files/media"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="-usr" Path=""/>
+    <HotDir Name="usr" Path="/usr"/>
+    <HotDir Name="usr/bin" Path="/usr/bin"/>
+    <HotDir Name="usr/share" Path="/usr/share"/>
+    <HotDir Name="usr/applications" Path="/usr/share/applications"/>
+    <HotDir Name="usr/share/icons/Mint-X/apps/16" Path="/usr/share/icons/Mint-X/apps/16"/>
+    <HotDir Name="usr/share/icons/Mint-X/apps/96" Path="/usr/share/icons/Mint-X/apps/96"/>
+    <HotDir Name="--" Path=""/>
+    <HotDir Name="var" Path="/var"/>
+    <HotDir Name="-" Path=""/>
+    <HotDir Name="-DoubleCmd" Path=""/>
+    <HotDir Name="doublecmd" Path="/usr/lib/doublecmd"/>
+    <HotDir Name="doublecmd_config" Path="$Home/.config/doublecmd"/>
+    <HotDir Name="--" Path=""/>
+  </DirectoryHotList>
+</doublecmd>

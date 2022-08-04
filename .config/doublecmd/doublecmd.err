@@ -1,0 +1,23 @@
+--------------- 15-09-2019, 18:52:58 ---------------
+| DC v0.8.2 beta Rev. 8010 -- i386-Linux-gtk2
+| Linux Mint 19.1 Tessa -- GTK 2.24.32 | PID 8685
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $08543AB6 line 82, column 3 of uquickviewpanel.pas in /usr/lib/doublecmd/doublecmd
+  $085438F9 line 60, column 3 of uquickviewpanel.pas in /usr/lib/doublecmd/doublecmd
+  $083D619F line 228, column 7 of uformcommands.pas in /usr/lib/doublecmd/doublecmd
+  $0837581F line 1221, column 77 of uhotkeymanager.pas in /usr/lib/doublecmd/doublecmd
+  $08375B0A line 1321, column 11 of uhotkeymanager.pas in /usr/lib/doublecmd/doublecmd
+  $081770FA in /usr/lib/doublecmd/doublecmd
+  $08177147 in /usr/lib/doublecmd/doublecmd
+  $081773E3 in /usr/lib/doublecmd/doublecmd
+  $08177338 in /usr/lib/doublecmd/doublecmd
+  $08179B1C in /usr/lib/doublecmd/doublecmd
+  $08071E98 in /usr/lib/doublecmd/doublecmd
+  $081769C1 in /usr/lib/doublecmd/doublecmd
+  $08300182 in /usr/lib/doublecmd/doublecmd
+  $082E690F in /usr/lib/doublecmd/doublecmd
+  $0821D137 in /usr/lib/doublecmd/doublecmd
+  $0821AFDD in /usr/lib/doublecmd/doublecmd
+  $0821A29D in /usr/lib/doublecmd/doublecmd
+
