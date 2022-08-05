@@ -1,5 +1,5 @@
 # **doublecmd-config**
-<br>
+<br><br>
 
 # **FolderTree**
 ```python
@@ -20,6 +20,7 @@ README.md                       #
 # **Installation**
 1. Install doublecmd
 ```bash
+sudo apt update;
 sudo apt install -y doublecmd-gtk;
 ```
 <br>
